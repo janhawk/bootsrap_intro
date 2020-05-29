@@ -1,0 +1,12 @@
+label {
+    display: block;
+    font: 20px 'Fira Sans', sans-serif;
+}
+
+
+label {
+    margin-top: 10px;
+}
+.row.send {
+    margin-top: 10px;
+}
